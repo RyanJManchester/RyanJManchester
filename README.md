@@ -7,9 +7,11 @@ Devops and web development! hugeley interested in getting into the programming i
   have done the following: HTML and CSS, JavaScript and Typescript. Learning Backend
 #Code academy (https://www.codecademy.com/)
  Javacript and python courses.
- # Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
- -learning programming core concepts for loops, data structure and algorithm's, tech stack management and workflow,
- -
+ -Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
+ learning programming core concepts for loops, data structure and algorithm's, tech stack management and workflow
+Unrelated Qualifications
+-St.John First Responder Qualified since June 2021, active first responder volunteer
+-Level 4 Welding, Engineering and Fabrictions skills with additional focus on C.A.D (Computer aided design modelling.)
 - 💞️ I’m looking to collaborate on ...
 In Person meetups! in New Zealand, the Auckland and bay of plenty area
 # I Currently am collaborating on:
