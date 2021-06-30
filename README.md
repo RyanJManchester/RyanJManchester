@@ -11,6 +11,7 @@ Devops and web development! hugeley interested in getting into the programming i
  learning programming core concepts for loops, data structure and algorithm's, tech stack management and workflow
 Unrelated Qualifications
 -St.John First Responder Qualified since June 2021, active first responder volunteer
+(https://www.stjohn.org.nz/what-we-do/st-john-ambulance-services/)
 -Level 4 Welding, Engineering and Fabrictions skills with additional focus on C.A.D (Computer aided design modelling.)
 - 💞️ I’m looking to collaborate on ...
 In Person meetups! in New Zealand, the Auckland and bay of plenty area
