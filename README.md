@@ -16,7 +16,9 @@ Unrelated Qualifications
 - 💞️ I’m looking to collaborate on ...
 In Person meetups! in New Zealand, the Auckland and bay of plenty area
 # I Currently am collaborating on:
-   The cnzba.org.nz businesses startup foundation - test developing new websites for overseas business immigrants
+   The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
+ */ in our own azure private folders */
+ 
    my own portfolio and projects, available here on github and codepen:
 - 📫 How to reach me ...
 by email is best!
