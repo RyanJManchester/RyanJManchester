@@ -1,12 +1,12 @@
-- 👋 Hey, I’m Ryan Manchester.
-- 
-- 👀 I’m interested in ...
-- 
-- General Progamming and Softawre Development!
-- 🌱 I’m currently a student at the University Of Waikato in Computer Science, started mid 2022.
+👋 Hey, I’m Ryan Manchester.
+ 
+👀 I’m interested in ...
+ General Progamming and Softawre Development!
+
+🌱 I’m currently a student at the University Of Waikato in Computer Science, started mid 2022.
 
 - Paramedicine and Health,
-- currently a stjohn ambulance volunteer going through further training.
+ currently a stjohn ambulance volunteer going through further training.
 
 - very interested in doing medical AI and health - software combined projects and disciplines in the future.
 
