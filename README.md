@@ -2,9 +2,6 @@
 ### Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px />
 
 ##### 🌱 I’m currently a student at the University Of Waikato in Computer Science, started mid 2022.
-- very interested in doing medical AI and health - software combined projects and disciplines in the future.
-
-
 #### In the works:
 * Code academy (https://www.codecademy.com/)
 * Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
