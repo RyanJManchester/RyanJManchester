@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey there! I'm Ryan Manchester</h3>
+### Hello there 👋<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 👀 I’m interested in ...
  General Progamming and Softawre Development!
 
