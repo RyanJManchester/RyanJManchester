@@ -8,7 +8,7 @@
 
 - very interested in doing medical AI and health - software combined projects and disciplines in the future.
 
-
+### Very Comfortable with
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -17,19 +17,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-#### Courses ive been going through in spare time:
+#### Current projects:
 * Code academy (https://www.codecademy.com/)
 * Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
 * The Odin Project
+* The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
 
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 80px align="left">
 <h3> Voli Ambulance Officer </h3>
 Joint study towards a Bachelor's of Paramedicine should help me to solve more problems in the medical - tech space.
-
-
-### I Currently am collaborating on:
-   The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
- */ in our own azure private folders */
  
 #### Contact me at
 - 📫 ryanjamesmanchester@gmail.com
