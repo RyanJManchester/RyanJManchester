@@ -25,7 +25,8 @@
 * Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
 * The Odin Project
 
-### Fun Fact about me: I also work for StJohn on the frontline <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 50px>
+### Fun Fact about me: I also work for StJohn on the frontline 
+<img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px>
 
 <img src="https://giphy.com/embed/nPTt3nzBlW47GHpovR" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/stickers/TASC-charity-transparent-tasc-nPTt3nzBlW47GHpovR">via GIPHY</a></p>
 
