@@ -1,7 +1,7 @@
 <!-- Heading -->
 ### Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 👀 I’m interested in ...
- General Progamming and Softawre Development!
+ General Progamming and Software Development!
 
 🌱 I’m currently a student at the University Of Waikato in Computer Science, started mid 2022.
 
