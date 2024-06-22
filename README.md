@@ -23,8 +23,4 @@
 <h4> Voli Ambulance Officer </h4>
 Joint study towards a Bachelor's of Paramedicine should help me to solve more problems in the medical - tech space.
  
-#### Contact me at
-- 📫 ryanjamesmanchester@gmail.com
-<!--
-### If you like what i do, <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a -->
-
+#### 📫 ryanjamesmanchester@gmail.com
