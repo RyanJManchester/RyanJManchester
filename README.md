@@ -1,5 +1,5 @@
 <!-- Heading -->
-### Hello there 👋<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+### Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 👀 I’m interested in ...
  General Progamming and Softawre Development!
 
