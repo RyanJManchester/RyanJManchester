@@ -25,7 +25,8 @@
 * Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
 * The Odin Project
 
-
+### Fun Fact about me: I also work for StJohn on the frontline
+<iframe src="https://giphy.com/embed/nPTt3nzBlW47GHpovR" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/TASC-charity-transparent-tasc-nPTt3nzBlW47GHpovR">via GIPHY</a></p>
 ### I Currently am collaborating on:
    The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
  */ in our own azure private folders */
