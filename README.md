@@ -37,7 +37,7 @@
      </tr>
     </table>
     </div>
-
+| ![Flowers](https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif) | I am text to the right |
 ### I Currently am collaborating on:
    The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
  */ in our own azure private folders */
