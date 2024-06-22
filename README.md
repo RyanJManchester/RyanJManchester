@@ -1,8 +1,5 @@
 <!-- Heading -->
-### Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-#### 👀 I’m interested in ...
-
- General Progamming and Software Development!
+### Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px
 
 ##### 🌱 I’m currently a student at the University Of Waikato in Computer Science, started mid 2022.
 - very interested in doing medical AI and health - software combined projects and disciplines in the future.
@@ -16,7 +13,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-#### Current projects:
+#### In the works:
 * Code academy (https://www.codecademy.com/)
 * Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
 * The Odin Project
