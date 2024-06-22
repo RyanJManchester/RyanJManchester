@@ -25,8 +25,8 @@
 * Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
 * The Odin Project
 
-### Fun Fact about me: I also work for StJohn on the frontline 
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px align="left">
+### Fun Fact about me: I also work for StJohn on the frontline 
 
 <divc style= "display: block;padding:0; margin:0;">
 <divc style= "display: block;">
