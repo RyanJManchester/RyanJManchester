@@ -3,11 +3,9 @@
 
 ##### 🌱 I’m currently a student at the University Of Waikato in Computer Science, started mid 2022.
 #### In the works:
-* Code academy (https://www.codecademy.com/)
-* Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
-* The Odin Project
-* The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
-
+* [Code academy](https://www.codecademy.com/)
+* [Harvards CS50x Online Computer Engineering](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
+* [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 80px align="left">
 <h4> Voli Ambulance Officer </h4>
 Joint study towards a Bachelor's of Paramedicine should help me to solve more problems in the medical - tech space.
