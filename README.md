@@ -22,7 +22,7 @@
 * Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
 * The Odin Project
 
-<img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px align="left">
+<img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 80px align="left">
 <h3>Fun Fact about me: I also work for StJohn on the frontline </h3>
 I both volunteer and work on the frontline as an Emergency Medical Assistant, doing part time study towards a bachelor's in Paramedicine. I hope to use this gained Expertise in computer science to solve problems in this field.
 
