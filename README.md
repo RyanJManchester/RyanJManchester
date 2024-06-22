@@ -25,5 +25,4 @@ Joint study towards a Bachelor's of Paramedicine should help me to solve more pr
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
 #### 📫 ryanjamesmanchester@gmail.comv=
-
-<img src = "https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width = 30px />
+</a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
