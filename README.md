@@ -28,6 +28,7 @@
 ### Fun Fact about me: I also work for StJohn on the frontline 
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px>
 
+<divc style= "display: block;padding:0; margin:0;">
 <divc style= "display: block;">
     <table cellspacing="0" cellpadding="0">
      <tr>
