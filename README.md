@@ -29,8 +29,8 @@
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px>
 
 <div>
-    <table style="border-collapse: collapse; border: none;">
-     <tr style="border-collapse: collapse; border: none;">
+    <table>
+     <tr>
        <td><img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px></td>
         <td style="border: none;"><b>Hobbie: working on the frontline</b></td>
      </tr>
