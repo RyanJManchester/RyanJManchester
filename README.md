@@ -12,7 +12,7 @@
 <h4> Voli Ambulance Officer </h4>
 Joint study towards a Bachelor's of Paramedicine should help me to solve more problems in the medical - tech space.
  
-#### Very Comfortable with
+#### Comfortable with
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
