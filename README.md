@@ -1,5 +1,4 @@
-👋 Hey, I’m Ryan Manchester.
- <!-- Heading -->
+<!-- Heading -->
 <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hey there! I'm Ryan Manchester</h3>
 👀 I’m interested in ...
  General Progamming and Softawre Development!
