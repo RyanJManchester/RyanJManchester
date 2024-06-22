@@ -28,11 +28,11 @@
 ### Fun Fact about me: I also work for StJohn on the frontline 
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px>
 
-<div>
+<div border:none>
     <table border:none>
      <tr>
-       <td><img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px></td>
-        <td><b>Hobbie: working on the frontline</b></td>
+       <td border:none><img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px></td>
+        <td border:none><b>Hobbie: working on the frontline</b></td>
      </tr>
     </table>
     </div>
