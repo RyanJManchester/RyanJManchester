@@ -23,7 +23,7 @@
 * The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
 
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 80px align="left">
-<h3> Voli Ambulance Officer </h3>
+<h4> Voli Ambulance Officer </h4>
 Joint study towards a Bachelor's of Paramedicine should help me to solve more problems in the medical - tech space.
  
 #### Contact me at
