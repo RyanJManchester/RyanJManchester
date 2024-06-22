@@ -29,20 +29,12 @@
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px>
 
 <div>
-    <table >
+  
      <tr>
        <td><img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px></td>
         <td><b>Hobbie: working on the frontline</b></td>
      </tr>
-    </table>
     </div>
-    
-    <table >
-     <tr>
-       <td><img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px></td>
-        <td><b>Hobbie: working on the frontline</b></td>
-     </tr>
-    </table>
 
 ### I Currently am collaborating on:
    The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
