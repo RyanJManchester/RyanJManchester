@@ -26,7 +26,7 @@
 * The Odin Project
 
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px align="left">
-### Fun Fact about me: I also work for StJohn on the frontline 
+<h3>Fun Fact about me: I also work for StJohn on the frontline </h3>
 
 <divc style= "display: block;padding:0; margin:0;">
 <divc style= "display: block;">
