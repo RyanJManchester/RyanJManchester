@@ -23,6 +23,4 @@ Joint study towards a Bachelor's of Paramedicine should help me to solve more pr
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
 ![C #](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-<!-- Contact me at -->
-</a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</a> <a href="ryanjamesmanchester@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+#### Contact Me: </a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></a> <a href="ryanjamesmanchester@gmail.com" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
