@@ -27,17 +27,9 @@
 
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px align="left">
 <h3>Fun Fact about me: I also work for StJohn on the frontline </h3>
+I both volunteer and work on the frontline as an Emergency Medical Assistant, doing part time study towards a bachelor's in Paramedicine. I hope to use this gained Expertise in computer science to solve problems in this field.
 
-<divc style= "display: block;padding:0; margin:0;">
-<divc style= "display: block;">
-    <table cellspacing="0" cellpadding="0">
-     <tr>
-       <td><img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px></td>
-        <td style="border: none;"><b>Hobbie: working on the frontline</b></td>
-     </tr>
-    </table>
-    </div>
-some text floating around the image
+
 ### I Currently am collaborating on:
    The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
  */ in our own azure private folders */
