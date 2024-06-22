@@ -28,10 +28,18 @@
 ### Fun Fact about me: I also work for StJohn on the frontline 
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px>
 
-
-| - | - |
-| <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px>| **Text** ### My Hobbie: Working on the frontline for Stjohn |
-
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Latest Tweets</b></td>
+        <td><b>daily.dev</b></td>
+     </tr>
+     <tr>
+       <td><a href="https://twitter.com/sunilsapkota09"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=sunilsapkota09" alt="sunil sapkota twitter" > </img></a></td>
+        <td> <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400" alt="sunil sapkota's Dev Card"/></a></td>
+     </tr>
+    </table>
+    </div>
 
 ### I Currently am collaborating on:
    The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
