@@ -12,6 +12,14 @@
 - very interested in doing medical AI and health - software combined projects and disciplines in the future.
 
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 #### Courses ive been going through in spare time:
 * Code academy (https://www.codecademy.com/)
 * Harvards CS50x Online Computer Engineering Course (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
