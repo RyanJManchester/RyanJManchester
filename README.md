@@ -1,7 +1,9 @@
 <!-- Heading -->
 ### Hello there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px />
 
-##### 🌱 I’m currently a student at the University Of Waikato in Computer Science, started mid 2022.
+<img src="https://upload.wikimedia.org/wikipedia/en/b/bd/University_of_Waikato_logo.svg" width = 80px align="left">
+<h4> Doing a Bachelors in Computer Science, Considering Postgrad </h4>
+I have enjoyed and am keen into getting into: embedded engineering, machine learning, User Interfaces, and cybersecurity
 #### In the works:
 * [Code academy](https://www.codecademy.com/)
 * [Harvards CS50x Online Computer Engineering](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x):
