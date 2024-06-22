@@ -29,7 +29,7 @@
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px>
 
 <div>
-    <table>
+    <table padding=0 margin = 0>
      <tr>
        <td><img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px></td>
         <td style="border: none;"><b>Hobbie: working on the frontline</b></td>
