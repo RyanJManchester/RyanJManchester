@@ -28,6 +28,11 @@
 ### Fun Fact about me: I also work for StJohn on the frontline 
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px>
 
+
+| - | - |
+| <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 100px>| **Text** ### My Hobbie: Working on the frontline for Stjohn |
+
+
 ### I Currently am collaborating on:
    The cnzba.org.nz businesses startup foundation - test developing new websites and basic backend for overseas business immigrants
  */ in our own azure private folders */
