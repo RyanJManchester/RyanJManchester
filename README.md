@@ -23,8 +23,8 @@
 * The Odin Project
 
 <img src="https://github.com/RyanJManchester/RyanJManchester/blob/main/ambo.gif" width = 80px align="left">
-<h3>Fun Fact about me: I also work for StJohn on the frontline </h3>
-I both volunteer and work on the frontline as an Emergency Medical Assistant, doing part time study towards a bachelor's in Paramedicine. I hope to use this gained Expertise in computer science to solve problems in this field.
+<h3> Voli Ambulance Officer </h3>
+Joint study towards a Bachelor's of Paramedicine should help me to solve more problems in the medical - tech space.
 
 
 ### I Currently am collaborating on:
