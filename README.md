@@ -4,11 +4,10 @@
 
  General Progamming and Software Development!
 
-#### 🌱 I’m currently a student at the University Of Waikato in Computer Science, started mid 2022.
-
+##### 🌱 I’m currently a student at the University Of Waikato in Computer Science, started mid 2022.
 - very interested in doing medical AI and health - software combined projects and disciplines in the future.
 
-### Very Comfortable with
+#### Very Comfortable with
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
