@@ -3,7 +3,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/b/bd/University_of_Waikato_logo.svg" width = 50px align="left">
 <h4> Doing a Bachelors in Computer Science, Considering Postgrad </h4>
-I Enjoy and am keen in: embedded engineering, machine learning, User Interfaces, and cybersecurity
+I Have interests in: embedded systems, machine learning, User Interfaces, and cybersecurity
 
 #### In the works:
 * [Code academy](https://www.codecademy.com/)
